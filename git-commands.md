@@ -30,4 +30,8 @@ step3: git checkout branch-name : it means switch a particular branch (like main
 
 step4: git checkout -b branch-name: This command use for create a new branch and switch to current branch (master) to branch(dev)
 
+#Some more commands : that are useful for bigneer:
+
+step1: git restore --staged : This command are used to if by mistake you add any file : then now you staged to unstaged and your file is now untracked
+
 
