@@ -34,4 +34,4 @@ step4: git checkout -b branch-name: This command use for create a new branch and
 
 step1: git restore --staged : This command are used to if by mistake you add any file : then now you staged to unstaged and your file is now untracked
 
-
+step2: git restore file-name : This command are use when you some modified the file and then you realise by mistake you change something that is not need you : then git restore file-name it is show last time what file have data contain: and modified file content removed:
