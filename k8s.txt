@@ -1,1 +1,15 @@
+hi everyone how are you
+
+
+branch: main 
+working is now""
+
+
+
+branch: git developer
+
+what are doing
+
 THis file is related to teh kuberenets.
+
+its progess
