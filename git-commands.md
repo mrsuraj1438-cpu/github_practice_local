@@ -1,6 +1,4 @@
-
-## Day-22 task:
-
+jj
 #Setup & Config
 
 Step1: Install the git bash if do not have Linux (OS) beacause git is in build in this linux Os.
@@ -280,4 +278,4 @@ cmd: git switch main
 cmd: git merge feature-login 
 
 3. Observe the merge — did Git do a fast-forward merge or a merge commit?
-
+ifh`
